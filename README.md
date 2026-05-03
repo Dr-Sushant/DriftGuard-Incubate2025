@@ -152,4 +152,4 @@ Documentation & Research Materials: Licensed under CC BY-NC-SA 4.0.
 -    Derivatives must carry the same license.
 
 
-For commercial licensing or collaborations, please contact: verma.sanskar@gmail.com maria.ahmed0009@gmail.com
+For commercial licensing or collaborations, please contact: dr.sushant.tapase@gmail.com  verma.sanskar@gmail.com maria.ahmed0009@gmail.com
