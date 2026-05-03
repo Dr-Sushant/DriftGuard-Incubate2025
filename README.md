@@ -1,7 +1,9 @@
 # 🏆 DriftGuard: Anesthetic Depth Early Warning System
 
 **🏅 Special Prize Winner - IIT JIPMER Healthcare Hackathon 2025**  
-**Role:** Founder & Project Mentor | **Team:** Sanskar Verma, Maria Ahmed
+**👨‍⚕️ Lead Clinician & Project Founder:** Dr. Sushant Tapase (MBBS, 20+ years clinical practice)
+**Team:** Sanskar Verma, Maria Ahmed
+
 
 ## 📊 Key Result: Drug-Centric Timeline
 
