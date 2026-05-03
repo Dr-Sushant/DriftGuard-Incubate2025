@@ -3,6 +3,25 @@
 **🏅 Special Prize Winner - IIT JIPMER Healthcare Hackathon 2025**  
 **Role:** Founder & Project Mentor | **Team:** Sanskar Verma, Maria Ahmed
 
+## 📊 Sample Results
+
+*The image below shows the relationship between Propofol infusion (orange), stress response (green/purple), and BIS score (blue):*
+
+![Patient 4755 Timeline](visualizations/patient_4755_timeline.png)
+
+*If you cannot see the image above, check the `visualizations/` folder in this repo.*
+
+---
+
+## 🚀 How to Run (for researchers)
+
+This project requires the VitalDB dataset (~50GB). To reproduce:
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run notebooks in order: `01_Data_Reconnaissance.ipynb` → `02_Feature_Engineering.ipynb`
+3. The final model is in `03_Model_Training_Transformer.ipynb`
+
+**Due to dataset size, no live demo is available. The code is provided for research reproduction.**
 ---
 
 [![License: AGPL v3 NC](https://img.shields.io/badge/License-AGPL%20v3--NC-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
