@@ -1,4 +1,9 @@
-# DriftGuard: Anesthetic Depth Early Warning System
+# 🏆 DriftGuard: Anesthetic Depth Early Warning System
+
+**🏅 Special Prize Winner - IIT JIPMER Healthcare Hackathon 2025**  
+**Role:** Founder & Project Mentor | **Team:** Sanskar Verma, Maria Ahmed
+
+---
 
 [![License: AGPL v3 NC](https://img.shields.io/badge/License-AGPL%20v3--NC-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Docs License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
