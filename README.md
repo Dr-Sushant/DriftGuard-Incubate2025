@@ -3,6 +3,22 @@
 **🏅 Special Prize Winner - IIT JIPMER Healthcare Hackathon 2025**  
 **Role:** Founder & Project Mentor | **Team:** Sanskar Verma, Maria Ahmed
 
+## 📊 Key Result: Drug-Centric Timeline
+
+*The image below shows how anesthetic drugs (orange) drive BIS score (blue), while vital signs (green/purple) show patient response:*
+
+![Drug Timeline](https://github.com/Dr-Sushant/DriftGuard-Incubate2025/blob/main/visualizations/Drug_Centric_Timeline.png?raw=true)
+
+---
+
+## 🏆 IIT JIPMER Hackathon 2025 - Special Prize Winner
+
+**Problem:** Prevent unintended awareness or over-sedation during surgery  
+**Solution:** ML system using only standard vital signs (no BIS monitor needed)  
+**My Role:** Founder, Clinical Lead, and Project Mentor
+
+---
+
 ## 📊 Sample Results
 
 *The image below shows the relationship between Propofol infusion (orange), stress response (green/purple), and BIS score (blue):*
